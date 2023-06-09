@@ -261,8 +261,13 @@
         "fgwork": "You work as a professional worker and earn"
       }, 
       {
-      "index": 51, 
+      "index": 52, 
         "autor": "amrit",
         "fgwork": "You opposed LGBT and get rewarded"
+      }, 
+      {
+      "index": 53, 
+        "autor": "amrit",
+        "fgwork": "While you were searching for Pokémon in the tall grass, you found"
       }
     ] 

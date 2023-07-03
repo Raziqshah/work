@@ -33,7 +33,7 @@
       {
       "index": 6,
         "autor": "amrit",
-        "wrk": "Why is this command called work? You're not even doing anything work related. however you won"
+        "wrk": "Why is this command called work? You're not even doing anything work related. however you got"
       }, 
       {
       "index": 7,
@@ -103,7 +103,7 @@
       {
       "index": 20,
         "autor": "amrit",
-        "wrk": "You moderated the group when *FG* was not there, the payment was"
+        "wrk": "You get a commission request, the payment is"
       }, 
       {
       "index": 21,
@@ -128,7 +128,7 @@
       {
       "index": 25,
         "autor": "amrit",
-        "wrk": "You were farming and you earn"
+        "wrk": "You stack cups at 7-11 for 8 hours a day, racking up a measly"
       }, 
       {
       "index": 26,
@@ -203,7 +203,7 @@
       {
       "index": 40, 
         "autor": "amrit",
-        "wrk": "Just for being in a group of Akeno, You win"
+        "wrk": "Just for being the bot, You win"
       }, 
       {
       "index": 41, 
@@ -269,5 +269,15 @@
       "index": 53, 
         "autor": "amrit",
         "wrk": "While you were searching for Pokémon in the tall grass, you found"
+      }, 
+      {
+      "index": 54, 
+        "autor": "amrit",
+        "wrk": "After a successful day at the office, on your way home you helped an old lady cross the street and she paid you"
+      }, 
+      {
+      "index": 55, 
+        "autor": "amrit",
+        "wrk": "You solved the mystery of the Covid outbreak and the government rewarded you with a sum of"
       }
     ] 
